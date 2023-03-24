@@ -8,7 +8,7 @@ This is the first tutorial that outlines the prerequisites and installation of t
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/EAQccdbtnRo)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/7ySj4KUp6bQ)
 
 <h2>Environments and Technologies Used</h2>
 
